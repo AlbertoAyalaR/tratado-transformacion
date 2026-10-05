@@ -1,0 +1,31 @@
+{
+  "version": "confuente-f19-acceptance-fixtures-v1",
+  "sourceRepository": "AlbertoAyalaR/tratado-transformacion",
+  "purpose": "Public hash-bound source fixtures for CONFUENTE F19 final production acceptance.",
+  "files": {
+    "b02.html": {
+      "path": "confuente-f19-fixtures/v1/b02.html",
+      "sha256": "61b2f8b22fb727ab8d3c978dcd1811f5869f23c5c647b0b6bd5923e175d4187b",
+      "bytes": 206,
+      "contentType": "text/html"
+    },
+    "b06.html": {
+      "path": "confuente-f19-fixtures/v1/b06.html",
+      "sha256": "eeb4d9cce97a504d67ff7f1548d848c5cde061d34a3211a943111cd670e1526c",
+      "bytes": 350,
+      "contentType": "text/html"
+    },
+    "b07-hostile.html": {
+      "path": "confuente-f19-fixtures/v1/b07-hostile.html",
+      "sha256": "30ba80762b693f1503408ae7819669a105f7afb74d9d4ed41d37f3be4a3dae72",
+      "bytes": 443,
+      "contentType": "text/html"
+    },
+    "b03.pdf": {
+      "path": "confuente-f19-fixtures/v1/b03.pdf",
+      "sha256": "a707111328d22f7846eaa512a3e9866ca759226545fa4e7d8c1b82e2163f6d6f",
+      "bytes": 609,
+      "contentType": "application/pdf"
+    }
+  }
+}
